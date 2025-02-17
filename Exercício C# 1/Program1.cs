@@ -58,7 +58,33 @@
 
         Console.WriteLine($"A quantidade de caracteres (ignorando espaços) é: {contador}");
 
+        
+        
+        Console.Write(nome + ", agora vamos verificar se a placa do seu carro é válida, conforme legislação brasileira: ");
+        string placa = Console.ReadLine();
 
+        if (placa.Length == 7)
+        {
+            if (Char.IsLetter(placa[0]) && Char.IsLetter(placa[1]) && Char.IsLetter(placa[2]))
+            {
+                if (Char.IsDigit(placa[3]) && Char.IsDigit(placa[4]) && Char.IsDigit(placa[5]) && Char.IsDigit(placa[6]))
+                {
+                 Console.WriteLine("Verdadeiro");
+                }
+                else
+                {
+                    Console.WriteLine("Falso");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Falso");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Falso");
+        }
     }
 }
 
