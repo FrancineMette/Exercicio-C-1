@@ -9,3 +9,14 @@
 /Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/obj/Debug/net9.0/refint/Exercício C# 1.dll
 /Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.pdb
 /Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.sourcelink.json
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/bin/Debug/net9.0/Exercício C# 1
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/bin/Debug/net9.0/Exercício C# 1.dll
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/bin/Debug/net9.0/Exercício C# 1.pdb
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.AssemblyInfoInputs.cache
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.AssemblyInfo.cs
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.csproj.CoreCompileInputs.cache
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.sourcelink.json
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.dll
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/obj/Debug/net9.0/refint/Exercício C# 1.dll
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/Exercicio-C-1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.pdb
