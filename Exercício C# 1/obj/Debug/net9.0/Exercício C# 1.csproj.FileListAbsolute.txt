@@ -8,3 +8,4 @@
 /Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.dll
 /Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/obj/Debug/net9.0/refint/Exercício C# 1.dll
 /Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.pdb
+/Users/francinemette/Desktop/Exercício C# 1/Exercício C# 1/obj/Debug/net9.0/Exercício C# 1.sourcelink.json
