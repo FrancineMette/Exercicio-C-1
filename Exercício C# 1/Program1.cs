@@ -1,4 +1,7 @@
-﻿class Program
+﻿using System.Formats.Tar;
+using System.Globalization;
+
+class Program
 {
 
     static void Main()
@@ -80,11 +83,28 @@
             {
                 Console.WriteLine("Falso");
             }
+
         }
         else
         {
             Console.WriteLine("Falso");
         }
+    
+    DateTime agora = DateTime.Now;
+
+        Console.WriteLine(agora.ToString("dddd, dd 'de' MMMM 'de' yyyy HH:mm:ss", new CultureInfo("pt-BR")));
+
+        Console.WriteLine(agora.ToString("dd/MM/yyyy", new CultureInfo("pt-BR")));
+
+        Console.WriteLine(agora.ToString("HH:mm", new CultureInfo("pt-BR")));
+
+        Console.WriteLine(agora.ToString("dd 'de' MMMM 'de' yyyy", new CultureInfo("pt-BR")));
+        
+    
     }
+
+    
 }
+
+
 
